@@ -8,6 +8,7 @@ AegisAI is a security simulation environment for AI-driven systems. It provides 
 
 ## Getting Started
 1. Clone the repository:
-'''sh
+
+```shell
 git clone https://github.com/MChorfa/aegisai.git
-'''
+```
